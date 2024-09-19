@@ -1,5 +1,5 @@
 # CodeForces_Rating_Challenger
-## Manual Push Repository for CodeForces
+## Manual Push Repository for CodeForces Solution
 
 All codes are manually pushed to this repository. <br/>
 The files are organized based on the programming language used. <br/>

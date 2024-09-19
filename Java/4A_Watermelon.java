@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Force4A {
 
     public static void main(String[] args) {
 

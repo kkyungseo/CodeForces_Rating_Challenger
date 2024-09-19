@@ -1,3 +1,5 @@
+// CodeForces_71A_Way Too Long Words
+
 import java.util.Scanner;
 
 public class Main {
